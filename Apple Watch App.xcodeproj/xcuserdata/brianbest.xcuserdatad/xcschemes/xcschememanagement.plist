@@ -4,15 +4,30 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Apple Watch App WatchKit 1 App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Apple Watch App.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Notification - Apple Watch App WatchKit 1 App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>537E623C1BD98D1500D9E216</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>537E62621BD98FDF00D9E216</key>
 		<dict>
 			<key>primary</key>
 			<true/>
